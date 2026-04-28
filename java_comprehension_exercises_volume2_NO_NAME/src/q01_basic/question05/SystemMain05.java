@@ -6,6 +6,7 @@ public class SystemMain05 {
 
 		AbstMember[] members = new AbstMember[2];
 		//TODO ここから実装する
+		NonMember nonMember = new NonMember();
 
 	}
 
