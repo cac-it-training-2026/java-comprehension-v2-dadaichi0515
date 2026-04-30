@@ -26,7 +26,7 @@ class ConsoleReader {
 	/**
 	 * 整数の標準入力。
 	 * 
-	 * @return 入力整数
+	 * @return  入力整数
 	 * @throws IOException
 	 * @throws NumberFormatException
 	 */

@@ -9,6 +9,7 @@ class ConsoleReader {
 
 		BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
 		String namberString = reader.readLine();
+
 		int number = Integer.parseInt(namberString);
 
 		return number;

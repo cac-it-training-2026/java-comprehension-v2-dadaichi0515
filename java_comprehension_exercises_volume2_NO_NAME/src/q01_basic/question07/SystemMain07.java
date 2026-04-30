@@ -35,6 +35,7 @@ public class SystemMain07 {
 		System.out.println("1から" + limit + "までの合計は" + sum + "です。");
 
 		System.out.println("****************");
+
 		System.out.println("Listの各要素を2倍します");
 		//TODO ここから実装する
 		numberList.doubleListEachValue();

@@ -45,7 +45,7 @@ class NumberList {
 	}
 
 	/**
-	 * Listの各要素を2倍にする
+	 * Listの 各要素を2倍にする
 	 * 
 	 */
 	public void doubleListEachValue() {

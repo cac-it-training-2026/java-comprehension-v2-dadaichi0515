@@ -18,6 +18,7 @@ public class SystemMain06 {
 		try {
 			System.out.println("input id>>");
 			inputId = cr.inputNumber();
+
 		} catch (NumberFormatException e) {
 			System.out.println("error!");
 			e.printStackTrace();
