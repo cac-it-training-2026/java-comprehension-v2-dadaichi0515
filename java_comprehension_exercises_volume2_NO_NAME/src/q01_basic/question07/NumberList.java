@@ -41,6 +41,7 @@ class NumberList {
 		}
 
 		return sum;
+
 	}
 
 	/**
