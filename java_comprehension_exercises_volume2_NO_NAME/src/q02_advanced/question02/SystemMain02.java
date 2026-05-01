@@ -17,6 +17,7 @@ public class SystemMain02 {
 
 		MemberManager.showAllMembers(members);
 		int id = 0;
+
 		String newpassword = null;
 
 		try {
