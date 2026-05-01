@@ -26,7 +26,7 @@ abstract class AbstMember {
 	public abstract void showMember();
 
 	/**
-	 * @return name
+	 * @return   name
 	 */
 	public String getName() {
 		return name;
@@ -37,6 +37,7 @@ abstract class AbstMember {
 	 */
 	public void setName(String name) {
 		this.name = name;
+
 	}
 
 }
